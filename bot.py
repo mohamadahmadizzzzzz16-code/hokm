@@ -5,7 +5,7 @@ import telebot
 from telebot import types
 
 BOT_TOKEN = "8905355459:AAHrZqJMqWiBnt5h--VuAiJsOW1yHirxG7I"
-CHANNEL_ID = "@xyyjeآیدی_کانال_خودت"  # آیدی کانالت را اینجا بنویس
+CHANNEL_ID = "@xyyje"  
 WEBAPP_URL = "https://mohamadhmadizzzzz16-code.github.io/hokm/"
 
 bot = telebot.TeleBot(BOT_TOKEN)
